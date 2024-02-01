@@ -1,4 +1,28 @@
+body{
+
+}
+
+#sfondo{
+    background-color: rgba(10, 10, 220, 0.513);
+    height: 150px;
+}
+
 .titolo{
     display: inline-block;
-    font-weight: 200;
+    color: white;
+    width: 133px;
+    height: 150px;
+    
+}
+div>h3{
+    position: absolute;
+    top: 40px;
+}
+
+.menu{
+    display: inline-block;
+}
+main>h4{
+    display: inline-block;
+    color: white;
 }
