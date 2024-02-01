@@ -1,7 +1,3 @@
-body{
-
-}
-
 #sfondo{
     background-color: rgba(10, 10, 220, 0.513);
     height: 150px;
@@ -12,8 +8,11 @@ body{
     color: white;
     width: 133px;
     height: 150px;
-    
+    border: 1px solid red;
+
 }
+    
+
 div>h3{
     position: absolute;
     top: 40px;
@@ -21,8 +20,11 @@ div>h3{
 
 .menu{
     display: inline-block;
+    border: 1px solid red;
 }
-main>h4{
+main>span{
     display: inline-block;
     color: white;
+    font-weight: bold;
+    font-size: large;
 }
